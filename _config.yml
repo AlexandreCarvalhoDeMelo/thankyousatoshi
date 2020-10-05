@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Time to be thankfull!
 description: Satoshi deserves it.
+github:
+  is_project_page: false
